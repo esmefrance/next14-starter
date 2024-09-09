@@ -26,3 +26,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+##Resources
+  https://www.youtube.com/watch?v=vCOSTG10Y4o
+  minute 42
+  component diagram https://app.eraser.io/workspace/tK4DWRaqnAVxQ0878alQ
